@@ -1,0 +1,501 @@
+Date,Category,Region,Quantity,UnitPrice,TotalSales
+2025-04-13,Electronics,Central,9,44.02,396.18
+2026-03-12,Clothing,East,5,264.34,1321.7
+2025-12-15,Books,North,4,43.13,172.52
+2025-09-28,Home & Kitchen,West,6,402.17,2413.02
+2025-04-17,Home & Kitchen,South,7,124.52,871.64
+2025-03-13,Home & Kitchen,South,5,274.61,1373.05
+2025-07-08,Clothing,Central,9,441.24,3971.16
+2025-01-21,Clothing,East,3,328.93,986.79
+2025-04-13,Books,South,7,271.15,1898.05
+2025-05-02,Books,North,5,168.92,844.6
+2026-04-12,Books,Central,7,173.17,1212.19
+2025-08-03,Beauty,West,2,338.05,676.1
+2025-11-27,Clothing,Central,4,497.13,1988.52
+2026-04-04,Clothing,West,2,334.3,668.6
+2025-03-29,Books,Central,7,283.31,1983.17
+2026-01-08,Home & Kitchen,Central,2,368.02,736.04
+2025-04-10,Home & Kitchen,Central,1,237.95,237.95
+2025-12-26,Books,West,9,39.47,355.23
+2025-06-01,Books,West,1,285.53,285.53
+2025-05-11,Clothing,Central,8,479.24,3833.92
+2025-05-30,Clothing,South,2,95.9,191.8
+2025-11-05,Electronics,East,8,348.1,2784.8
+2025-09-15,Home & Kitchen,East,3,108.46,325.38
+2025-12-10,Electronics,East,6,272.56,1635.36
+2026-05-07,Clothing,West,3,57.37,172.11
+2026-02-18,Clothing,West,7,230.68,1614.76
+2025-10-21,Clothing,South,9,380.52,3424.68
+2026-01-21,Home & Kitchen,East,2,180.31,360.62
+2025-07-11,Electronics,East,5,335.81,1679.05
+2026-03-20,Electronics,Central,6,399.77,2398.62
+2025-10-04,Books,West,4,464.32,1857.28
+2025-06-10,Clothing,East,4,124.97,499.88
+2026-04-05,Electronics,South,4,205.66,822.64
+2025-11-10,Clothing,South,2,84.68,169.36
+2025-01-22,Books,East,4,496.32,1985.28
+2025-09-10,Electronics,West,1,464.23,464.23
+2025-08-24,Home & Kitchen,South,6,274.58,1647.48
+2025-12-11,Electronics,Central,1,422.6,422.6
+2025-02-18,Electronics,South,6,265.27,1591.62
+2026-04-20,Clothing,North,1,315.56,315.56
+2025-02-28,Clothing,North,6,53.67,322.02
+2025-06-19,Home & Kitchen,West,8,380.08,3040.64
+2026-04-21,Home & Kitchen,East,2,72.58,145.16
+2025-07-07,Beauty,West,2,414.77,829.54
+2026-04-09,Clothing,West,4,393.19,1572.76
+2025-09-28,Clothing,West,3,357.28,1071.84
+2025-07-09,Books,West,4,27.72,110.88
+2026-03-22,Clothing,Central,7,158.53,1109.71
+2025-06-24,Clothing,Central,1,138.93,138.93
+2026-03-22,Electronics,South,6,186.47,1118.82
+2025-02-20,Electronics,North,3,52.94,158.82
+2025-12-30,Beauty,West,7,469.11,3283.77
+2025-02-24,Books,South,2,281.36,562.72
+2025-09-01,Home & Kitchen,North,2,159.71,319.42
+2025-11-16,Clothing,East,4,204.52,818.08
+2025-05-11,Electronics,Central,1,229.13,229.13
+2026-04-30,Electronics,North,3,304.29,912.87
+2025-11-03,Clothing,East,9,262.68,2364.12
+2025-05-15,Clothing,North,7,460.5,3223.5
+2025-01-21,Home & Kitchen,Central,7,253.51,1774.57
+2025-11-25,Home & Kitchen,Central,4,496.16,1984.64
+2025-06-16,Clothing,South,2,427.2,854.4
+2025-10-01,Beauty,West,4,112.17,448.68
+2026-01-23,Home & Kitchen,North,6,465.99,2795.94
+2025-03-30,Home & Kitchen,North,3,67.02,201.06
+2025-11-12,Home & Kitchen,East,1,410.55,410.55
+2025-01-14,Clothing,Central,8,196.51,1572.08
+2025-08-30,Electronics,North,5,440.21,2201.05
+2025-09-22,Clothing,Central,5,435.35,2176.75
+2025-12-12,Books,North,4,404.9,1619.6
+2025-02-22,Electronics,South,6,397.11,2382.66
+2026-01-21,Electronics,West,3,159.29,477.87
+2025-12-06,Electronics,North,9,49.65,446.85
+2025-04-02,Electronics,Central,5,207.46,1037.3
+2026-01-02,Books,South,3,95.03,285.09
+2026-03-20,Home & Kitchen,North,1,350.53,350.53
+2026-03-31,Clothing,East,6,179.59,1077.54
+2026-03-04,Electronics,West,2,488.05,976.1
+2025-09-21,Clothing,North,3,324.08,972.24
+2026-03-07,Clothing,South,1,413.02,413.02
+2025-02-04,Electronics,East,9,74.94,674.46
+2025-07-25,Clothing,South,8,432.39,3459.12
+2025-03-22,Clothing,South,2,462.15,924.3
+2026-02-24,Home & Kitchen,East,8,248.66,1989.28
+2025-02-19,Home & Kitchen,South,9,307.06,2763.54
+2025-12-26,Electronics,East,1,384.76,384.76
+2026-01-23,Clothing,North,5,95.67,478.35
+2025-01-02,Home & Kitchen,East,8,256.26,2050.08
+2026-01-25,Clothing,East,2,205.34,410.68
+2025-02-23,Books,West,4,81.72,326.88
+2025-04-16,Home & Kitchen,East,7,190.09,1330.63
+2025-09-17,Electronics,East,3,43.4,130.2
+2025-11-06,Electronics,North,5,22.65,113.25
+2026-04-22,Home & Kitchen,West,8,76.23,609.84
+2025-07-10,Electronics,Central,3,481.93,1445.79
+2026-02-06,Home & Kitchen,North,4,279.27,1117.08
+2025-08-06,Beauty,North,9,483.25,4349.25
+2025-02-13,Home & Kitchen,Central,7,221.92,1553.44
+2025-06-11,Clothing,East,1,162.79,162.79
+2025-07-21,Home & Kitchen,South,4,258.01,1032.04
+2026-03-22,Clothing,West,4,225.36,901.44
+2026-04-29,Clothing,South,9,61.78,556.02
+2025-09-27,Beauty,Central,6,324.0,1944.0
+2025-12-17,Clothing,North,9,115.86,1042.74
+2025-10-31,Beauty,North,6,313.6,1881.6
+2025-09-28,Beauty,West,6,328.6,1971.6
+2026-04-01,Electronics,North,5,84.49,422.45
+2026-04-07,Electronics,North,5,40.06,200.3
+2025-08-03,Electronics,West,2,392.57,785.14
+2025-09-09,Electronics,West,8,235.3,1882.4
+2025-07-09,Electronics,Central,8,38.5,308.0
+2025-10-23,Home & Kitchen,North,1,497.48,497.48
+2025-08-01,Electronics,North,8,38.31,306.48
+2025-07-27,Clothing,Central,5,350.57,1752.85
+2025-08-25,Books,East,2,492.0,984.0
+2025-12-04,Electronics,East,2,127.2,254.4
+2026-01-02,Books,East,6,79.7,478.2
+2025-02-22,Clothing,Central,9,69.48,625.32
+2025-10-07,Electronics,North,1,158.6,158.6
+2026-02-14,Home & Kitchen,Central,6,59.51,357.06
+2025-08-05,Home & Kitchen,Central,9,349.16,3142.44
+2025-09-09,Books,East,8,40.52,324.16
+2025-07-07,Home & Kitchen,South,6,259.62,1557.72
+2026-01-15,Books,North,3,498.38,1495.14
+2026-05-08,Clothing,East,8,408.85,3270.8
+2025-02-10,Electronics,South,9,311.46,2803.14
+2025-06-06,Books,South,1,160.06,160.06
+2025-01-15,Books,West,9,315.71,2841.39
+2025-10-28,Beauty,North,6,268.25,1609.5
+2025-03-06,Clothing,South,6,218.78,1312.68
+2025-12-11,Clothing,East,4,74.05,296.2
+2025-11-23,Books,West,1,444.44,444.44
+2025-01-09,Clothing,North,8,230.39,1843.12
+2025-12-10,Beauty,Central,2,105.37,210.74
+2025-05-09,Books,East,1,190.2,190.2
+2026-05-07,Clothing,South,2,212.92,425.84
+2025-05-16,Books,South,1,415.49,415.49
+2026-04-17,Books,East,1,369.47,369.47
+2025-03-04,Electronics,South,9,386.96,3482.64
+2025-05-19,Beauty,West,1,15.41,15.41
+2026-05-14,Clothing,North,4,213.92,855.68
+2025-03-22,Books,West,6,245.86,1475.16
+2026-01-27,Clothing,South,7,19.4,135.8
+2025-06-12,Books,Central,2,137.31,274.62
+2026-02-23,Clothing,North,6,382.54,2295.24
+2025-10-16,Electronics,North,7,77.18,540.26
+2026-01-14,Beauty,East,2,272.3,544.6
+2025-09-18,Electronics,East,2,115.45,230.9
+2026-05-05,Clothing,Central,7,15.94,111.58
+2025-08-19,Beauty,North,1,128.19,128.19
+2025-02-10,Beauty,Central,8,488.18,3905.44
+2025-01-28,Home & Kitchen,East,3,402.75,1208.25
+2025-05-15,Home & Kitchen,East,6,480.19,2881.14
+2025-07-20,Clothing,North,9,249.05,2241.45
+2025-11-24,Clothing,West,6,63.77,382.62
+2025-09-25,Clothing,South,9,278.5,2506.5
+2026-02-22,Home & Kitchen,East,7,232.64,1628.48
+2025-02-02,Books,East,9,423.73,3813.57
+2025-02-17,Books,West,2,58.06,116.12
+2026-02-11,Books,West,8,249.24,1993.92
+2025-03-03,Electronics,Central,8,83.52,668.16
+2025-08-04,Clothing,Central,2,169.09,338.18
+2025-10-20,Electronics,South,4,371.3,1485.2
+2025-04-09,Clothing,South,7,243.25,1702.75
+2025-06-21,Clothing,North,4,194.19,776.76
+2025-12-26,Books,Central,4,203.29,813.16
+2025-08-02,Clothing,East,6,235.13,1410.78
+2026-04-20,Electronics,Central,6,394.66,2367.96
+2025-02-04,Electronics,East,3,447.12,1341.36
+2026-03-25,Books,West,9,478.11,4302.99
+2025-08-15,Home & Kitchen,Central,2,395.58,791.16
+2025-04-11,Electronics,West,6,164.55,987.3
+2026-03-07,Electronics,South,7,347.19,2430.33
+2026-04-07,Home & Kitchen,South,9,224.43,2019.87
+2025-05-11,Electronics,North,3,134.79,404.37
+2025-09-14,Books,Central,3,422.03,1266.09
+2025-01-05,Home & Kitchen,West,7,28.83,201.81
+2025-08-06,Electronics,East,4,451.86,1807.44
+2025-09-12,Electronics,South,8,236.12,1888.96
+2026-02-02,Beauty,South,7,322.23,2255.61
+2025-12-25,Clothing,East,5,333.08,1665.4
+2025-10-10,Clothing,West,7,448.61,3140.27
+2026-01-28,Books,West,3,321.97,965.91
+2025-07-26,Beauty,Central,2,310.83,621.66
+2025-01-15,Beauty,Central,6,42.66,255.96
+2025-12-12,Books,North,2,264.02,528.04
+2025-02-11,Clothing,South,3,83.58,250.74
+2026-01-15,Electronics,Central,6,371.34,2228.04
+2026-04-06,Books,West,5,260.99,1304.95
+2025-06-28,Home & Kitchen,East,8,343.31,2746.48
+2025-03-04,Clothing,West,9,30.42,273.78
+2025-12-18,Beauty,South,3,51.55,154.65
+2025-08-19,Electronics,West,3,361.0,1083.0
+2025-08-29,Clothing,North,3,45.32,135.96
+2025-02-21,Electronics,South,6,44.92,269.52
+2025-04-06,Clothing,East,1,15.93,15.93
+2026-01-23,Electronics,North,7,478.69,3350.83
+2025-08-10,Electronics,South,1,371.38,371.38
+2026-04-30,Electronics,East,5,183.09,915.45
+2026-02-11,Home & Kitchen,North,8,155.3,1242.4
+2025-08-19,Home & Kitchen,North,4,181.35,725.4
+2025-08-25,Home & Kitchen,South,5,389.58,1947.9
+2025-05-23,Beauty,Central,4,334.07,1336.28
+2025-06-20,Clothing,North,4,100.75,403.0
+2025-01-29,Clothing,North,8,95.31,762.48
+2025-02-05,Books,East,2,58.21,116.42
+2025-01-13,Electronics,West,1,333.55,333.55
+2025-06-09,Beauty,South,3,384.54,1153.62
+2025-11-23,Electronics,South,9,139.87,1258.83
+2025-07-06,Beauty,Central,4,20.26,81.04
+2025-08-31,Electronics,Central,5,50.26,251.3
+2025-03-27,Books,South,2,484.25,968.5
+2025-10-11,Clothing,Central,4,154.77,619.08
+2025-03-07,Beauty,East,2,386.92,773.84
+2025-06-19,Electronics,South,2,316.09,632.18
+2025-02-14,Home & Kitchen,Central,4,197.15,788.6
+2025-03-03,Beauty,South,6,110.79,664.74
+2026-03-17,Clothing,West,7,69.48,486.36
+2025-05-14,Home & Kitchen,North,3,311.36,934.08
+2025-10-11,Home & Kitchen,South,3,389.57,1168.71
+2025-01-28,Clothing,North,6,325.51,1953.06
+2025-04-18,Home & Kitchen,Central,3,269.85,809.55
+2025-02-13,Home & Kitchen,North,2,30.56,61.12
+2025-12-06,Beauty,South,8,484.56,3876.48
+2025-10-13,Electronics,West,5,401.37,2006.85
+2026-03-22,Clothing,Central,1,153.48,153.48
+2025-11-27,Beauty,South,3,490.19,1470.57
+2025-05-08,Books,Central,8,304.92,2439.36
+2025-12-14,Clothing,East,4,295.39,1181.56
+2026-04-18,Home & Kitchen,North,7,376.56,2635.92
+2025-08-19,Clothing,East,2,407.77,815.54
+2025-07-09,Electronics,South,7,331.67,2321.69
+2025-08-13,Clothing,West,5,72.77,363.85
+2026-01-20,Clothing,Central,5,175.75,878.75
+2026-01-12,Home & Kitchen,North,6,464.76,2788.56
+2025-10-10,Electronics,Central,9,120.06,1080.54
+2026-03-22,Beauty,South,6,192.36,1154.16
+2025-05-01,Beauty,Central,8,221.72,1773.76
+2025-04-26,Home & Kitchen,North,7,225.31,1577.17
+2026-04-06,Clothing,South,9,310.34,2793.06
+2025-08-21,Clothing,Central,4,472.11,1888.44
+2025-09-16,Books,West,2,127.94,255.88
+2025-12-25,Home & Kitchen,South,7,69.54,486.78
+2025-07-17,Electronics,South,6,106.76,640.56
+2026-04-01,Beauty,West,1,444.59,444.59
+2026-02-15,Books,East,9,326.45,2938.05
+2025-05-17,Beauty,North,9,150.09,1350.81
+2025-11-14,Home & Kitchen,East,2,409.81,819.62
+2025-06-14,Home & Kitchen,Central,3,432.07,1296.21
+2025-08-13,Clothing,West,5,424.79,2123.95
+2025-11-03,Beauty,East,5,460.27,2301.35
+2025-08-22,Books,South,1,133.6,133.6
+2025-06-21,Electronics,Central,8,379.97,3039.76
+2025-06-01,Electronics,Central,8,235.66,1885.28
+2026-04-08,Clothing,East,4,422.58,1690.32
+2025-11-11,Books,East,7,366.96,2568.72
+2026-01-09,Beauty,West,3,390.46,1171.38
+2025-06-09,Electronics,North,6,331.52,1989.12
+2025-04-06,Home & Kitchen,East,9,96.94,872.46
+2026-04-17,Clothing,East,1,277.06,277.06
+2025-08-21,Beauty,South,5,492.49,2462.45
+2025-06-29,Books,Central,4,469.32,1877.28
+2025-04-23,Books,North,8,31.16,249.28
+2025-11-14,Clothing,South,1,90.76,90.76
+2026-05-12,Clothing,West,9,74.55,670.95
+2026-03-18,Clothing,West,6,365.73,2194.38
+2025-02-21,Electronics,East,4,410.71,1642.84
+2025-09-25,Books,East,9,114.62,1031.58
+2025-10-22,Books,West,5,257.87,1289.35
+2026-01-21,Beauty,East,5,421.94,2109.7
+2026-01-22,Beauty,North,5,369.07,1845.35
+2025-04-23,Home & Kitchen,East,1,275.7,275.7
+2025-04-11,Books,Central,1,299.27,299.27
+2025-04-23,Beauty,East,8,259.1,2072.8
+2026-03-16,Books,South,8,155.8,1246.4
+2025-03-22,Electronics,North,6,286.86,1721.16
+2025-07-06,Clothing,South,4,347.55,1390.2
+2025-04-23,Electronics,South,2,437.93,875.86
+2025-01-02,Beauty,Central,2,321.78,643.56
+2025-05-10,Home & Kitchen,North,9,382.95,3446.55
+2025-08-08,Electronics,North,5,88.44,442.2
+2025-02-23,Home & Kitchen,North,4,236.16,944.64
+2025-12-09,Home & Kitchen,North,1,14.57,14.57
+2026-04-30,Clothing,North,7,130.87,916.09
+2025-08-12,Electronics,Central,3,365.97,1097.91
+2025-08-13,Home & Kitchen,East,6,495.99,2975.94
+2026-01-20,Clothing,South,5,58.6,293.0
+2026-02-07,Books,North,5,206.73,1033.65
+2025-05-06,Clothing,East,5,402.03,2010.15
+2025-05-10,Books,East,1,109.98,109.98
+2025-02-22,Home & Kitchen,South,1,281.99,281.99
+2025-06-21,Home & Kitchen,Central,3,369.2,1107.6
+2025-08-06,Books,West,4,311.83,1247.32
+2025-06-09,Clothing,West,5,102.13,510.65
+2025-07-17,Electronics,East,2,184.14,368.28
+2026-02-20,Electronics,South,8,394.06,3152.48
+2025-09-04,Books,West,2,281.57,563.14
+2025-11-20,Home & Kitchen,East,9,12.56,113.04
+2026-03-15,Home & Kitchen,Central,2,382.89,765.78
+2025-07-22,Electronics,West,9,27.3,245.7
+2025-07-03,Electronics,East,7,375.41,2627.87
+2025-05-03,Electronics,East,8,109.22,873.76
+2026-02-05,Clothing,North,2,479.46,958.92
+2025-09-12,Home & Kitchen,Central,7,190.29,1332.03
+2025-10-21,Clothing,North,6,170.2,1021.2
+2025-10-07,Clothing,South,4,82.96,331.84
+2025-11-21,Beauty,North,7,159.75,1118.25
+2026-01-07,Clothing,North,4,439.56,1758.24
+2025-04-08,Clothing,West,2,498.2,996.4
+2025-07-17,Books,East,7,190.47,1333.29
+2026-04-15,Clothing,Central,8,229.82,1838.56
+2026-01-30,Home & Kitchen,North,2,363.81,727.62
+2025-08-28,Books,Central,5,444.24,2221.2
+2025-05-24,Beauty,North,1,300.59,300.59
+2025-04-07,Electronics,South,7,201.85,1412.95
+2025-07-20,Beauty,North,8,212.18,1697.44
+2025-05-04,Clothing,West,6,350.85,2105.1
+2025-07-06,Clothing,East,5,11.58,57.9
+2025-11-22,Clothing,South,6,313.6,1881.6
+2026-04-09,Beauty,North,2,184.19,368.38
+2025-12-15,Clothing,Central,1,399.16,399.16
+2025-09-16,Clothing,South,7,55.57,388.99
+2025-05-28,Home & Kitchen,South,7,298.22,2087.54
+2025-09-09,Electronics,North,2,245.68,491.36
+2026-03-19,Electronics,South,2,324.74,649.48
+2026-02-24,Electronics,Central,1,41.78,41.78
+2026-02-07,Electronics,South,8,294.19,2353.52
+2025-12-12,Electronics,Central,8,285.13,2281.04
+2026-03-27,Electronics,North,1,284.72,284.72
+2025-05-27,Home & Kitchen,East,8,305.71,2445.68
+2025-05-28,Electronics,South,9,341.47,3073.23
+2025-12-18,Clothing,East,4,404.44,1617.76
+2025-07-18,Books,Central,1,142.21,142.21
+2025-11-04,Clothing,South,1,414.27,414.27
+2026-05-04,Home & Kitchen,West,3,254.15,762.45
+2026-02-21,Electronics,East,5,47.76,238.8
+2026-02-28,Electronics,South,5,38.69,193.45
+2025-05-08,Electronics,East,9,173.78,1564.02
+2025-02-08,Electronics,South,2,394.6,789.2
+2025-12-04,Clothing,North,2,356.76,713.52
+2025-12-26,Electronics,East,6,396.42,2378.52
+2025-05-09,Electronics,West,9,263.46,2371.14
+2025-09-24,Electronics,West,1,225.7,225.7
+2026-04-21,Clothing,Central,9,82.25,740.25
+2026-03-17,Electronics,South,9,170.81,1537.29
+2026-04-18,Clothing,East,9,222.67,2004.03
+2026-03-10,Clothing,Central,5,53.41,267.05
+2025-05-31,Home & Kitchen,East,9,118.1,1062.9
+2026-02-19,Electronics,South,4,303.13,1212.52
+2026-04-23,Books,West,2,370.47,740.94
+2025-10-25,Home & Kitchen,North,6,499.19,2995.14
+2025-04-09,Electronics,West,4,467.23,1868.92
+2025-09-20,Books,Central,6,324.86,1949.16
+2025-09-09,Beauty,North,3,216.41,649.23
+2025-05-24,Electronics,Central,6,321.73,1930.38
+2025-12-12,Clothing,South,2,394.97,789.94
+2025-04-22,Books,North,2,67.98,135.96
+2026-05-15,Home & Kitchen,Central,9,210.85,1897.65
+2025-03-01,Electronics,South,7,421.5,2950.5
+2026-01-04,Electronics,West,3,198.08,594.24
+2025-01-02,Clothing,South,1,290.22,290.22
+2026-01-20,Clothing,East,8,298.01,2384.08
+2025-10-31,Home & Kitchen,South,6,100.39,602.34
+2025-09-11,Clothing,South,7,187.5,1312.5
+2025-05-20,Clothing,East,9,173.91,1565.19
+2026-03-29,Home & Kitchen,Central,5,22.84,114.2
+2025-02-06,Electronics,Central,1,21.85,21.85
+2025-06-09,Clothing,South,7,417.53,2922.71
+2025-01-09,Home & Kitchen,East,5,143.8,719.0
+2025-08-21,Books,East,3,263.86,791.58
+2025-04-09,Clothing,West,9,156.38,1407.42
+2025-05-27,Clothing,Central,1,470.93,470.93
+2025-10-31,Electronics,North,1,137.06,137.06
+2025-07-27,Clothing,Central,1,220.53,220.53
+2025-05-11,Clothing,Central,3,437.64,1312.92
+2026-02-08,Electronics,West,6,422.55,2535.3
+2025-06-01,Clothing,North,3,101.19,303.57
+2025-02-23,Clothing,West,8,403.3,3226.4
+2025-04-30,Electronics,North,2,234.51,469.02
+2025-06-10,Clothing,South,9,246.65,2219.85
+2026-02-12,Electronics,North,3,75.41,226.23
+2025-04-26,Clothing,West,5,49.49,247.45
+2025-03-16,Electronics,Central,8,366.69,2933.52
+2025-04-23,Books,North,2,253.27,506.54
+2026-04-01,Home & Kitchen,North,6,224.06,1344.36
+2026-02-24,Home & Kitchen,East,5,367.46,1837.3
+2026-02-26,Books,Central,9,385.1,3465.9
+2025-04-14,Clothing,South,5,87.87,439.35
+2025-12-06,Electronics,West,2,309.01,618.02
+2025-09-11,Clothing,South,5,76.32,381.6
+2025-08-15,Home & Kitchen,Central,4,378.17,1512.68
+2025-04-22,Home & Kitchen,North,7,331.91,2323.37
+2026-04-18,Clothing,North,6,478.74,2872.44
+2025-04-09,Electronics,Central,2,43.79,87.58
+2025-06-02,Clothing,North,5,37.96,189.8
+2025-12-15,Clothing,North,7,148.27,1037.89
+2026-02-06,Home & Kitchen,North,7,138.24,967.68
+2026-01-19,Home & Kitchen,West,5,131.02,655.1
+2026-01-01,Clothing,West,9,454.06,4086.54
+2025-12-04,Beauty,East,4,132.28,529.12
+2025-07-13,Home & Kitchen,South,3,143.26,429.78
+2025-11-06,Electronics,Central,4,382.11,1528.44
+2025-06-12,Electronics,Central,5,230.37,1151.85
+2025-07-27,Electronics,Central,6,390.59,2343.54
+2026-03-21,Electronics,East,3,42.03,126.09
+2025-06-18,Electronics,West,2,248.91,497.82
+2026-04-29,Electronics,East,4,26.47,105.88
+2025-06-10,Clothing,Central,5,40.7,203.5
+2025-03-09,Electronics,South,4,454.15,1816.6
+2025-10-16,Books,North,3,78.23,234.69
+2026-02-02,Electronics,West,8,270.89,2167.12
+2025-10-04,Clothing,West,4,211.44,845.76
+2025-10-31,Clothing,East,2,180.2,360.4
+2026-02-08,Beauty,West,2,450.92,901.84
+2026-01-19,Electronics,Central,1,20.69,20.69
+2026-01-27,Clothing,Central,4,335.26,1341.04
+2025-05-15,Beauty,East,9,482.06,4338.54
+2025-07-14,Books,Central,7,284.48,1991.36
+2026-02-05,Books,South,7,469.04,3283.28
+2025-05-08,Clothing,East,7,35.61,249.27
+2025-02-02,Electronics,South,8,215.21,1721.68
+2025-06-25,Home & Kitchen,North,1,137.48,137.48
+2026-04-05,Beauty,South,8,368.1,2944.8
+2026-03-19,Home & Kitchen,North,4,490.84,1963.36
+2026-01-06,Home & Kitchen,North,4,135.7,542.8
+2026-04-15,Clothing,South,4,330.55,1322.2
+2026-01-10,Books,East,6,107.07,642.42
+2025-01-22,Electronics,Central,7,287.01,2009.07
+2025-08-26,Clothing,Central,6,237.33,1423.98
+2025-06-07,Clothing,North,1,486.28,486.28
+2025-02-07,Clothing,North,8,308.18,2465.44
+2025-08-18,Electronics,East,7,181.26,1268.82
+2025-12-31,Electronics,West,6,65.91,395.46
+2025-02-20,Home & Kitchen,South,6,84.11,504.66
+2026-03-14,Clothing,North,5,120.41,602.05
+2025-09-21,Home & Kitchen,Central,6,132.97,797.82
+2025-10-10,Electronics,East,9,426.8,3841.2
+2025-01-27,Clothing,South,9,285.0,2565.0
+2025-08-14,Clothing,East,8,266.46,2131.68
+2025-10-04,Electronics,South,9,66.24,596.16
+2025-10-13,Clothing,South,8,431.47,3451.76
+2025-04-07,Electronics,North,8,364.18,2913.44
+2025-10-11,Electronics,East,1,43.16,43.16
+2026-01-02,Beauty,East,5,356.84,1784.2
+2026-03-24,Clothing,Central,4,276.33,1105.32
+2026-04-26,Books,Central,2,50.05,100.1
+2026-03-29,Clothing,North,8,234.57,1876.56
+2025-11-13,Home & Kitchen,North,3,247.5,742.5
+2025-10-31,Books,West,4,91.23,364.92
+2025-05-27,Home & Kitchen,Central,7,473.39,3313.73
+2025-01-04,Clothing,South,9,426.49,3838.41
+2025-02-04,Clothing,East,2,337.82,675.64
+2025-07-11,Clothing,North,3,236.52,709.56
+2025-02-18,Beauty,East,4,211.77,847.08
+2025-01-17,Books,East,1,328.98,328.98
+2025-06-21,Beauty,West,7,277.26,1940.82
+2025-08-08,Electronics,Central,2,40.51,81.02
+2025-06-07,Home & Kitchen,North,5,261.13,1305.65
+2026-04-22,Beauty,East,1,405.14,405.14
+2025-02-15,Electronics,North,3,235.03,705.09
+2026-01-08,Electronics,South,2,35.46,70.92
+2025-01-06,Home & Kitchen,West,1,395.28,395.28
+2025-04-09,Home & Kitchen,South,7,108.67,760.69
+2026-01-15,Books,North,5,136.72,683.6
+2025-08-21,Electronics,North,1,90.71,90.71
+2025-02-06,Books,Central,6,171.81,1030.86
+2025-10-07,Electronics,East,5,380.81,1904.05
+2025-12-15,Electronics,East,3,264.5,793.5
+2026-05-12,Electronics,South,7,110.39,772.73
+2025-10-29,Books,West,9,440.14,3961.26
+2025-06-30,Home & Kitchen,East,9,441.0,3969.0
+2025-04-05,Clothing,Central,9,436.58,3929.22
+2025-04-09,Clothing,South,2,127.01,254.02
+2025-07-07,Books,South,3,231.11,693.33
+2026-04-26,Clothing,Central,7,492.64,3448.48
+2025-04-26,Books,West,5,388.29,1941.45
+2025-07-10,Clothing,Central,2,23.31,46.62
+2025-09-10,Clothing,West,3,41.95,125.85
+2026-04-14,Clothing,Central,6,237.33,1423.98
+2026-02-20,Clothing,Central,7,455.52,3188.64
+2026-04-16,Home & Kitchen,North,9,273.96,2465.64
+2025-06-10,Clothing,South,1,253.93,253.93
+2025-09-13,Electronics,Central,7,61.68,431.76
+2025-11-19,Books,Central,8,331.82,2654.56
+2025-05-08,Clothing,East,3,412.83,1238.49
+2025-01-18,Clothing,South,4,196.41,785.64
+2025-10-08,Beauty,East,6,390.05,2340.3
+2026-05-05,Home & Kitchen,South,7,482.59,3378.13
+2025-08-11,Electronics,East,4,109.85,439.4
+2025-02-23,Beauty,Central,8,266.43,2131.44
+2025-02-27,Home & Kitchen,Central,5,150.7,753.5
+2025-11-19,Clothing,North,1,398.5,398.5
+2025-12-26,Electronics,East,4,293.02,1172.08
+2025-06-23,Books,West,3,320.95,962.85
+2025-10-07,Home & Kitchen,North,9,400.98,3608.82
+2025-04-24,Clothing,East,8,204.03,1632.24
+2025-10-15,Books,East,1,458.39,458.39
+2026-03-07,Books,North,6,271.18,1627.08
+2025-12-08,Electronics,Central,9,87.4,786.6
+2025-05-31,Clothing,East,7,350.99,2456.93
